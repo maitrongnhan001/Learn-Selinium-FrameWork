@@ -1,0 +1,47 @@
+package unit_tesing;
+
+import org.testng.annotations.Test;
+
+import thuvien.tinhtoan.PhepTinh;
+public class TestPhepToan {
+	
+	@Test
+	public void TestCong () {
+		//get data
+		ReadExcelFile config = new ReadExcelFile("/Users/trongnhan/Documents/Test Software/Work/TestData.xlsx"); 
+		
+		int SheetCount = config.getSheetCount();
+		
+		System.out.println(SheetCount);
+		
+		
+//		int rows = config.getRowCount(0); 
+//	 	 
+// 	 	Object[][] credentials = new Object[rows][2]; 
+// 	 	
+// 	 	
+// 	 	 
+// 	 	for(int i=0; i<rows; i++) 
+// 	 	{ 
+// 	 	 	credentials[i][0] = config.getData(0, i, 0);  	 	 	
+// 	 	 	credentials[i][1] = config.getData(0, i, 1); 
+// 	 	 	 
+// 	 	} 
+		
+		System.out.println("Before Tesecase");
+		System.out.println("After Tesecase");
+	}
+	
+	@Test
+	public void TestTru () {
+		System.out.println("Before Tesecase");
+		System.out.println("After Tesecase");
+	}
+	
+	@Test
+	public void TestNhan () {
+		System.out.println("Before Tesecase");
+		System.out.println("After Tesecase");
+	}
+	
+}

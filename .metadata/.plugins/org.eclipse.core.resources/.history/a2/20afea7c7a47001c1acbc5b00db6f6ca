@@ -1,0 +1,26 @@
+package unit_tesing;
+
+import org.testng.annotations.Test;
+
+import thuvien.tinhtoan.PhepTinh;
+public class TestPhepToan {
+	
+	@Test
+	public void TestCong () {
+		System.out.println("Before Tesecase");
+		System.out.println("After Tesecase");
+	}
+	
+	@Test
+	public void TestTru () {
+		System.out.println("Before Tesecase");
+		System.out.println("After Tesecase");
+	}
+	
+	@Test
+	public void TestNhan () {
+		System.out.println("Before Tesecase");
+		System.out.println("After Tesecase");
+	}
+	
+}

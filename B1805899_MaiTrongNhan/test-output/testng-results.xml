@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="6" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-17T16:15:04 ICT" name="Default suite" finished-at="2021-11-17T16:15:05 ICT" duration-ms="321">
+    <groups>
+    </groups>
+    <test started-at="2021-11-17T16:15:04 ICT" name="Default test" finished-at="2021-11-17T16:15:05 ICT" duration-ms="321">
+      <class name="unit_tesing.TestPhepToan">
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method signature="TestCong(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestCong" data-provider="DataCong" finished-at="2021-11-17T16:15:05 ICT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCong -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method signature="TestCong(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestCong" data-provider="DataCong" finished-at="2021-11-17T16:15:05 ICT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCong -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method signature="TestCong(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestCong" data-provider="DataCong" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4.5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCong -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method signature="TestNhan(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestNhan" data-provider="DataNhan" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [4.0] but found [5.0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [4.0] but found [5.0]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotSame(Assert.java:1033)
+at org.testng.Assert.assertSame(Assert.java:981)
+at org.testng.Assert.assertSame(Assert.java:992)
+at unit_tesing.TestPhepToan.TestNhan(TestPhepToan.java:39)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNhan -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method signature="TestNhan(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestNhan" data-provider="DataNhan" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [15.0] but found [16.0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [15.0] but found [16.0]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotSame(Assert.java:1033)
+at org.testng.Assert.assertSame(Assert.java:981)
+at org.testng.Assert.assertSame(Assert.java:992)
+at unit_tesing.TestPhepToan.TestNhan(TestPhepToan.java:39)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNhan -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method signature="TestNhan(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestNhan" data-provider="DataNhan" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [7.0] but found [8.5]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [7.0] but found [8.5]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotSame(Assert.java:1033)
+at org.testng.Assert.assertSame(Assert.java:981)
+at org.testng.Assert.assertSame(Assert.java:992)
+at unit_tesing.TestPhepToan.TestNhan(TestPhepToan.java:39)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNhan -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method signature="TestTru(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestTru" data-provider="DataTru" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTru -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method signature="TestTru(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestTru" data-provider="DataTru" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTru -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method is-config="true" signature="BeforeTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="BeforeTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTeseCase -->
+        <test-method signature="TestTru(float,float,float)[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="TestTru" data-provider="DataTru" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3.5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[16.5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTru -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+        <test-method is-config="true" signature="AfterTeseCase()[pri:0, instance:unit_tesing.TestPhepToan@6a01e23]" started-at="2021-11-17T16:15:05 ICT" name="AfterTeseCase" finished-at="2021-11-17T16:15:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTeseCase -->
+      </class> <!-- unit_tesing.TestPhepToan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
